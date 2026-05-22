@@ -34,4 +34,4 @@ curseur.execute(requete)
 requete="create table IF NOT EXISTS devoir(id_devoir SERIAL NOT NULL PRIMARY KEY,id_note int,foreign key (id_note) references Note(id_note),note_devoir float NOT NULL default 0.0)"
 curseur.execute(requete)
 connexion .commit()
-curseur.close()
+curseur.close() 
