@@ -1,18 +1,35 @@
 import csv
 import json
+import ast
 
-def csv_vers_json(eleves_valides_csv, eleves_valides_json):
+def convertir_csv_en_json():
+    liste_donnees = []
+    
+    with open('backend/data/eleves_valides.csv', mode='r', encoding='utf-8') as fichier_csv:
+        lecteur_csv = csv.DictReader(fichier_csv)
+        
+        for ligne in lecteur_csv:
+            nouveau_eleve = {}
+            
+            for cle, valeur in ligne.items():
+                if cle == 'Note':
+                    # Convertir la colonne Note en structure JSON
+                    try:
+                        nouveau_eleve['notes'] = ast.literal_eval(valeur)
+                    except:
+                        nouveau_eleve['notes'] = []
+                        print(f"Erreur pour {ligne.get('CODE', 'inconnu')}")
+                else:
+                    nouveau_eleve[cle] = valeur
+            
+            liste_donnees.append(nouveau_eleve)
+    
+    # Sauvegarder en JSON
+    with open('backend/data/eleves_valides.json', mode='w', encoding='utf-8') as fichier_json:
+        json.dump(liste_donnees, fichier_json, indent=4, ensure_ascii=False)
+    
+    print(f"Conversion terminée ! {len(liste_donnees)} élèves convertis.")
 
-    data = []
-
-    with open(eleves_valides_csv, "r") as csv_file:
-
-        lecteur = csv.DictReader(csv_file)
-
-        for ligne in lecteur:
-            data.append(ligne)
-
-    with open(eleves_valides_json, "w") as json_file:
-
-        json.dump(data, json_file, indent=4)
+if __name__ == "__main__":
+    convertir_csv_en_json()
 

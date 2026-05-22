@@ -14,11 +14,6 @@ async def convertir_csv_json():
         "message": "Conversion CSV vers JSON réussie"
     }
 
-# GET
-@app.get("/")
-async def accueil():
-    return {"message": "GET"}
-
 # POST
 @app.post("/")
 async def ajouter():

@@ -1,0 +1,6047 @@
+[
+    {
+        "CODE": "AAD004",
+        "Numero": "LIHGFR0",
+        "Nom": "Diallo",
+        "Prenom": "Nourou",
+        "Date de naissance": "02/01/2012",
+        "Classe": "6emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    14.0,
+                    15.0
+                ],
+                "examen": 10.0,
+                "moyenne": 11.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    12.0,
+                    13.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.83
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    14.0,
+                    13.0
+                ],
+                "examen": 7.0,
+                "moyenne": 9.17
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    15.0,
+                    19.0
+                ],
+                "examen": 10.0,
+                "moyenne": 12.33
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    13.0,
+                    12.0
+                ],
+                "examen": 15.0,
+                "moyenne": 14.17
+            }
+        ]
+    },
+    {
+        "CODE": "AAD005",
+        "Numero": "40DKG6T",
+        "Nom": "Diallo",
+        "Prenom": "awa",
+        "Date de naissance": "21/10/2004",
+        "Classe": "6emA",
+        "notes": [
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    17.0,
+                    20.0,
+                    18.0
+                ],
+                "examen": 15.0,
+                "moyenne": 16.11
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    15.0,
+                    16.15,
+                    13.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.24
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.33
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    14.0
+                ],
+                "examen": 13.0,
+                "moyenne": 13.33
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    13.0,
+                    11.0,
+                    15.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    15.0
+                ],
+                "examen": 13.0,
+                "moyenne": 13.67
+            }
+        ]
+    },
+    {
+        "CODE": "AAD005",
+        "Numero": "44DSW78",
+        "Nom": "Ndiaye",
+        "Prenom": "Sidy",
+        "Date de naissance": "19/01/2005",
+        "Classe": "4emB",
+        "notes": [
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    7.0,
+                    10.0,
+                    9.0
+                ],
+                "examen": 10.0,
+                "moyenne": 9.56
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    11.0,
+                    10.0,
+                    12.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.33
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    14.0
+                ],
+                "examen": 15.0,
+                "moyenne": 14.67
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    14.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.0
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    14.0,
+                    12.0,
+                    10.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.67
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    14.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.0
+            }
+        ]
+    },
+    {
+        "CODE": "AAD005",
+        "Numero": "20LH7BG",
+        "Nom": "FAYE",
+        "Prenom": "Fallou",
+        "Date de naissance": "19/04/2002",
+        "Classe": "4emA",
+        "notes": [
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    8.0,
+                    13.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.56
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    10.1,
+                    11.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.12
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    12.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.67
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 11.0,
+                "moyenne": 10.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    15.0,
+                    10.0,
+                    9.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.5
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    8.0
+                ],
+                "examen": 10.0,
+                "moyenne": 9.33
+            }
+        ]
+    },
+    {
+        "CODE": "AAD005",
+        "Numero": "8D805GT",
+        "Nom": "Diop",
+        "Prenom": "Seyni",
+        "Date de naissance": "29/09/2005",
+        "Classe": "3emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    11.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    7.0,
+                    12.0,
+                    8.0
+                ],
+                "examen": 13.0,
+                "moyenne": 11.67
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.5,
+                    9.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.75
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.0
+            }
+        ]
+    },
+    {
+        "CODE": "AAD005",
+        "Numero": "9HBW36T",
+        "Nom": "Ba",
+        "Prenom": "Aliou",
+        "Date de naissance": "01/01/2006",
+        "Classe": "5emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 15.0,
+                "moyenne": 15.17
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    10.0,
+                    11.0,
+                    10.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.44
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    14.12,
+                    13.0
+                ],
+                "examen": 15.0,
+                "moyenne": 14.52
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    15.0
+                ],
+                "examen": 15.0,
+                "moyenne": 15.0
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    10.0,
+                    17.0,
+                    13.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.33
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    17.0
+                ],
+                "examen": 14.0,
+                "moyenne": 15.0
+            }
+        ]
+    },
+    {
+        "CODE": "AAD005",
+        "Numero": "W8NNJ6T",
+        "Nom": "Ndoye",
+        "Prenom": "Ousmane",
+        "Date de naissance": "09/04/2004",
+        "Classe": "5emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    20.0,
+                    18.0
+                ],
+                "examen": 18.0,
+                "moyenne": 18.33
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    12.0,
+                    14.0,
+                    14.0
+                ],
+                "examen": 13.0,
+                "moyenne": 13.11
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    15.16,
+                    16.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.53
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    17.0
+                ],
+                "examen": 18.0,
+                "moyenne": 17.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    14.0,
+                    15.0,
+                    15.0,
+                    16.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.33
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    13.0
+                ],
+                "examen": 16.0,
+                "moyenne": 15.0
+            }
+        ]
+    },
+    {
+        "CODE": "AAD005",
+        "Numero": "23YLTXT",
+        "Nom": "Baal",
+        "Prenom": "Thierno",
+        "Date de naissance": "22/01/2006",
+        "Classe": "3emA",
+        "notes": [
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    13.0,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.67
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    12.0,
+                    14.0,
+                    15.0
+                ],
+                "examen": 8.0,
+                "moyenne": 9.89
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 11.0,
+                "moyenne": 11.0
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    12.0
+                ],
+                "examen": 14.0,
+                "moyenne": 13.33
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    12.0,
+                    10.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.44
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    8.0
+                ],
+                "examen": 10.0,
+                "moyenne": 9.33
+            }
+        ]
+    },
+    {
+        "CODE": "AAD005",
+        "Numero": "48DKG8T",
+        "Nom": "Baal",
+        "Prenom": "Boubou",
+        "Date de naissance": "26/04/2003",
+        "Classe": "4emB",
+        "notes": [
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    17.0,
+                    11.0,
+                    8.0
+                ],
+                "examen": 11.0,
+                "moyenne": 11.33
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    12.0,
+                    10.0,
+                    11.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.67
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    12.0
+                ],
+                "examen": 16.0,
+                "moyenne": 14.67
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    12.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    13.0,
+                    15.0,
+                    11.0
+                ],
+                "examen": 14.0,
+                "moyenne": 13.67
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    12.0
+                ],
+                "examen": 17.0,
+                "moyenne": 15.33
+            }
+        ]
+    },
+    {
+        "CODE": "AAD005",
+        "Numero": "Q7XVP6G",
+        "Nom": "Seck",
+        "Prenom": "Bineta",
+        "Date de naissance": "12/02/2005",
+        "Classe": "3emA",
+        "notes": [
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    14.0,
+                    8.0
+                ],
+                "examen": 16.0,
+                "moyenne": 14.33
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    12.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.33
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    13.0
+                ],
+                "examen": 16.0,
+                "moyenne": 15.0
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.0
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    13.0,
+                    13.0,
+                    12.0
+                ],
+                "examen": 8.0,
+                "moyenne": 9.56
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.33
+            }
+        ]
+    },
+    {
+        "CODE": "AAD005",
+        "Numero": "M67KQV7",
+        "Nom": "Correa",
+        "Prenom": "Albert",
+        "Date de naissance": "26/12/2003",
+        "Classe": "6emA",
+        "notes": [
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0,
+                    10.0,
+                    9.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.0
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    11.0,
+                    10.0,
+                    12.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.33
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.33
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    12.0
+                ],
+                "examen": 111.0,
+                "moyenne": 78.0
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    10.0,
+                    12.0,
+                    8.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.33
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.33
+            }
+        ]
+    },
+    {
+        "CODE": "AAD007",
+        "Numero": "H18AC4W",
+        "Nom": "BA",
+        "Prenom": "Mouhamed",
+        "Date de naissance": "14/01/2005",
+        "Classe": "6emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    11.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    7.0,
+                    12.0,
+                    8.0
+                ],
+                "examen": 13.0,
+                "moyenne": 11.67
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.5,
+                    9.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.75
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.0
+            }
+        ]
+    },
+    {
+        "CODE": "AAD007",
+        "Numero": "EPJHQQ5",
+        "Nom": "DIAW",
+        "Prenom": "Fallou",
+        "Date de naissance": "12/08/2006",
+        "Classe": "3emB",
+        "notes": [
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    12.0,
+                    14.5,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.83
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    14.0,
+                    12.0
+                ],
+                "examen": 13.0,
+                "moyenne": 13.0
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    12.8
+                ],
+                "examen": 15.0,
+                "moyenne": 14.27
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    10.0,
+                    9.0,
+                    16.0,
+                    13.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 16.0,
+                "moyenne": 14.0
+            }
+        ]
+    },
+    {
+        "CODE": "AAD007",
+        "Numero": "KM729R9",
+        "Nom": "NDIAYE",
+        "Prenom": "Marie",
+        "Date de naissance": "19/02/2007",
+        "Classe": "3emA",
+        "notes": [
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    12.0,
+                    14.5,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.83
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    4.0,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 11.17
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.8
+                ],
+                "examen": 15.0,
+                "moyenne": 14.6
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.33
+            }
+        ]
+    },
+    {
+        "CODE": "AAD007",
+        "Numero": "Q7U2XFP",
+        "Nom": "DEME",
+        "Prenom": "Abdou",
+        "Date de naissance": "16/01/2004",
+        "Classe": "4emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    14.5,
+                    11.0,
+                    13.0
+                ],
+                "examen": 16.0,
+                "moyenne": 14.71
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    4.0,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 11.17
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.5
+                ],
+                "examen": 15.0,
+                "moyenne": 14.5
+            }
+        ]
+    },
+    {
+        "CODE": "AAD007",
+        "Numero": "0747PMJ",
+        "Nom": "Ndao",
+        "Prenom": "Baye Ndiaga",
+        "Date de naissance": "08/08/2008",
+        "Classe": "5emB",
+        "notes": [
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    13.0,
+                    9.0,
+                    11.0
+                ],
+                "examen": 14.0,
+                "moyenne": 13.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    12.0,
+                    14.5,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.83
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    8.0,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 11.83
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.5
+                ],
+                "examen": 15.0,
+                "moyenne": 14.5
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    13.0,
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 10.0
+            }
+        ]
+    },
+    {
+        "CODE": "AAD007",
+        "Numero": "18G9C4L",
+        "Nom": "DIEYE",
+        "Prenom": "Abdoulaye",
+        "Date de naissance": "01/01/2002",
+        "Classe": "6emB",
+        "notes": [
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    12.0,
+                    14.5,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.83
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    4.0,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 11.17
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.8
+                ],
+                "examen": 15.0,
+                "moyenne": 14.6
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.33
+            }
+        ]
+    },
+    {
+        "CODE": "AAD007",
+        "Numero": "UQI7FN8",
+        "Nom": "Cyrille",
+        "Prenom": "Keys",
+        "Date de naissance": "07/11/2007",
+        "Classe": "4emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    9.0,
+                    10.5,
+                    11.0,
+                    13.0
+                ],
+                "examen": 16.0,
+                "moyenne": 14.29
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    12.0
+                ],
+                "examen": 19.0,
+                "moyenne": 16.67
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    10.0,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.17
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    15.0,
+                    9.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.25
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    13.0
+                ],
+                "examen": 13.0,
+                "moyenne": 13.0
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.12
+                ],
+                "examen": 15.0,
+                "moyenne": 14.37
+            }
+        ]
+    },
+    {
+        "CODE": "AAD007",
+        "Numero": "9H37AKZ",
+        "Nom": "LOW",
+        "Prenom": "Joakim",
+        "Date de naissance": "20/12/2002",
+        "Classe": "4emA",
+        "notes": [
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    12.0,
+                    14.5,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.83
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    14.0,
+                    12.0
+                ],
+                "examen": 13.0,
+                "moyenne": 13.0
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    12.8
+                ],
+                "examen": 15.0,
+                "moyenne": 14.27
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    10.0,
+                    9.0,
+                    16.0,
+                    13.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 16.0,
+                "moyenne": 14.0
+            }
+        ]
+    },
+    {
+        "CODE": "AAD007",
+        "Numero": "6691DTO",
+        "Nom": "Ndour",
+        "Prenom": "Karin",
+        "Date de naissance": "07/07/2003",
+        "Classe": "5emB",
+        "notes": [
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    15.0,
+                    11.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.11
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    6.0
+                ],
+                "examen": 16.0,
+                "moyenne": 12.67
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    14.9,
+                    11.0
+                ],
+                "examen": 17.0,
+                "moyenne": 15.32
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    8.0,
+                    13.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.17
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    18.5
+                ],
+                "examen": 15.0,
+                "moyenne": 16.17
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    7.0,
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.0
+            }
+        ]
+    },
+    {
+        "CODE": "AAD007",
+        "Numero": "8YM0304",
+        "Nom": "KIBINDA",
+        "Prenom": "Iniess",
+        "Date de naissance": "15/08/2005",
+        "Classe": "6emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    11.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    7.0,
+                    9.0,
+                    8.0
+                ],
+                "examen": 13.0,
+                "moyenne": 11.33
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    10.5,
+                    9.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.25
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 11.0,
+                "moyenne": 10.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    11.0,
+                    16.0,
+                    8.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.92
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.0
+            }
+        ]
+    },
+    {
+        "CODE": "ABD009",
+        "Numero": "345ERTH",
+        "Nom": "Abdou",
+        "Prenom": "Wade",
+        "Date de naissance": "31/12/2007",
+        "Classe": "6emD",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    12.0,
+                    4.0
+                ],
+                "examen": 15.0,
+                "moyenne": 12.67
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    10.0,
+                    17.0,
+                    18.0
+                ],
+                "examen": 10.0,
+                "moyenne": 11.67
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    10.9,
+                    9.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.32
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    0.0
+                ],
+                "examen": 11.0,
+                "moyenne": 7.33
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    10.0,
+                    20.0,
+                    16.0,
+                    10.0
+                ],
+                "examen": 9.0,
+                "moyenne": 10.67
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    9.0
+                ],
+                "examen": 10.0,
+                "moyenne": 9.67
+            }
+        ]
+    },
+    {
+        "CODE": "ABD009",
+        "Numero": "SDFTY34",
+        "Nom": "Senir",
+        "Prenom": "Mbol",
+        "Date de naissance": "24/02/2015",
+        "Classe": "4emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    1.0,
+                    5.0
+                ],
+                "examen": 8.0,
+                "moyenne": 6.33
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    10.0,
+                    9.0,
+                    18.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.78
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    10.9,
+                    9.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.32
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    17.0
+                ],
+                "examen": 11.0,
+                "moyenne": 13.0
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    10.0,
+                    20.0,
+                    16.0,
+                    10.0
+                ],
+                "examen": 9.0,
+                "moyenne": 10.67
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    6.0
+                ],
+                "examen": 10.0,
+                "moyenne": 8.67
+            }
+        ]
+    },
+    {
+        "CODE": "ABD009",
+        "Numero": "ZRDFD4S",
+        "Nom": "Ndiareme",
+        "Prenom": "Sylla",
+        "Date de naissance": "03/09/2005",
+        "Classe": "3emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    1.0,
+                    4.0
+                ],
+                "examen": 15.0,
+                "moyenne": 10.83
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    0.0,
+                    19.0,
+                    8.0
+                ],
+                "examen": 10.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    2.19,
+                    1.0
+                ],
+                "examen": 5.0,
+                "moyenne": 3.87
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 11.0,
+                "moyenne": 10.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    10.0,
+                    20.0,
+                    16.0,
+                    10.0
+                ],
+                "examen": 9.0,
+                "moyenne": 10.67
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    9.0
+                ],
+                "examen": 1.0,
+                "moyenne": 3.67
+            }
+        ]
+    },
+    {
+        "CODE": "ABD009",
+        "Numero": "DFGE67T",
+        "Nom": "Mbor",
+        "Prenom": "Tounkho",
+        "Date de naissance": "17/10/2001",
+        "Classe": "5emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    4.0
+                ],
+                "examen": 5.0,
+                "moyenne": 5.67
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    12.0,
+                    19.0,
+                    18.0
+                ],
+                "examen": 10.0,
+                "moyenne": 12.11
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    10.9,
+                    9.0
+                ],
+                "examen": 4.0,
+                "moyenne": 5.98
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 11.0,
+                "moyenne": 10.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    10.0,
+                    10.0,
+                    8.0,
+                    10.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    9.0
+                ],
+                "examen": 17.0,
+                "moyenne": 14.33
+            }
+        ]
+    },
+    {
+        "CODE": "ABD009",
+        "Numero": "23453RD",
+        "Nom": "yéré",
+        "Prenom": "Niani",
+        "Date de naissance": "05/11/2012",
+        "Classe": "3emD",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    18.0,
+                    4.0
+                ],
+                "examen": 8.0,
+                "moyenne": 9.0
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    10.0,
+                    9.0,
+                    18.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.11
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    10.9,
+                    9.0
+                ],
+                "examen": 3.0,
+                "moyenne": 5.32
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 11.0,
+                "moyenne": 10.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    10.0,
+                    6.0,
+                    16.0,
+                    10.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.5
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    19.0
+                ],
+                "examen": 10.0,
+                "moyenne": 13.0
+            }
+        ]
+    },
+    {
+        "CODE": "ABD009",
+        "Numero": "56GFSE6",
+        "Nom": "Awa",
+        "Prenom": "Samaké",
+        "Date de naissance": "30/09/2005",
+        "Classe": "5emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    1.0,
+                    4.0
+                ],
+                "examen": 7.0,
+                "moyenne": 5.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    1.0,
+                    9.0,
+                    18.0
+                ],
+                "examen": 10.0,
+                "moyenne": 9.78
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    10.9,
+                    9.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.32
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 11.0,
+                "moyenne": 10.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    10.0,
+                    20.0,
+                    16.0,
+                    10.0
+                ],
+                "examen": 9.0,
+                "moyenne": 10.67
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    9.0
+                ],
+                "examen": 10.0,
+                "moyenne": 9.67
+            }
+        ]
+    },
+    {
+        "CODE": "ABN018",
+        "Numero": "LSNP1OC",
+        "Nom": "Moosky",
+        "Prenom": "Faye",
+        "Date de naissance": "23/04/1988",
+        "Classe": "4emC",
+        "notes": [
+            {
+                "matieres": "rançais",
+                "notes_dev": [
+                    10.0,
+                    7.0
+                ],
+                "examen": 15.0,
+                "moyenne": 12.83
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    1.0,
+                    18.0
+                ],
+                "examen": 13.0,
+                "moyenne": 11.83
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    10.0,
+                    11.0
+                ],
+                "examen": 14.0,
+                "moyenne": 12.83
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    16.0,
+                    17.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.83
+            },
+            {
+                "matieres": "Science_Physique",
+                "notes_dev": [
+                    18.0,
+                    12.0
+                ],
+                "examen": 12.0,
+                "moyenne": 13.0
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    15.0,
+                    17.0
+                ],
+                "examen": 11.0,
+                "moyenne": 12.67
+            }
+        ]
+    },
+    {
+        "CODE": "ABN018",
+        "Numero": "PONAAM0",
+        "Nom": "Mayoro",
+        "Prenom": "Diop",
+        "Date de naissance": "14/05/2002",
+        "Classe": "6emB",
+        "notes": [
+            {
+                "matieres": "Français",
+                "notes_dev": [
+                    12.0,
+                    8.0
+                ],
+                "examen": 17.0,
+                "moyenne": 14.67
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    15.0,
+                    19.0
+                ],
+                "examen": 17.0,
+                "moyenne": 17.0
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    18.0,
+                    16.0
+                ],
+                "examen": 17.0,
+                "moyenne": 17.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    18.0,
+                    13.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            },
+            {
+                "matieres": "Science_Physique",
+                "notes_dev": [
+                    13.0,
+                    13.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.33
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    15.0,
+                    14.0
+                ],
+                "examen": 15.0,
+                "moyenne": 14.83
+            }
+        ]
+    },
+    {
+        "CODE": "AFD006",
+        "Numero": "2022HEC",
+        "Nom": "SYLLA",
+        "Prenom": "Gallas",
+        "Date de naissance": "02/03/2000",
+        "Classe": "6emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    9.0,
+                    15.0
+                ],
+                "examen": 19.0,
+                "moyenne": 16.67
+            },
+            {
+                "matieres": "Français",
+                "notes_dev": [
+                    10.0,
+                    12.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.33
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    18.0,
+                    14.0
+                ],
+                "examen": 19.0,
+                "moyenne": 18.0
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    9.0,
+                    10.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.17
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    3.0,
+                    11.0
+                ],
+                "examen": 16.0,
+                "moyenne": 13.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    12.0
+                ],
+                "examen": 14.0,
+                "moyenne": 13.33
+            }
+        ]
+    },
+    {
+        "CODE": "AFD006",
+        "Numero": "2017ERT",
+        "Nom": "MANTANE",
+        "Prenom": "Elisabeth",
+        "Date de naissance": "03/04/1996",
+        "Classe": "4emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    11.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    7.0,
+                    12.0,
+                    8.0
+                ],
+                "examen": 13.0,
+                "moyenne": 11.67
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.5,
+                    9.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.75
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.0
+            }
+        ]
+    },
+    {
+        "CODE": "AFD006",
+        "Numero": "2019GHS",
+        "Nom": "BOISY",
+        "Prenom": "Chris",
+        "Date de naissance": "04/09/2001",
+        "Classe": "5emC",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    13.0,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.67
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    13.0,
+                    19.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.67
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    12.0,
+                    14.0
+                ],
+                "examen": 14.0,
+                "moyenne": 13.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    15.0,
+                    19.0
+                ],
+                "examen": 15.0,
+                "moyenne": 15.67
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0,
+                    18.0
+                ],
+                "examen": 13.0,
+                "moyenne": 13.33
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    11.0,
+                    12.0,
+                    11.0
+                ],
+                "examen": 20.0,
+                "moyenne": 17.11
+            }
+        ]
+    },
+    {
+        "CODE": "AFD006",
+        "Numero": "2014TGR",
+        "Nom": "MENDY",
+        "Prenom": "Marcelin",
+        "Date de naissance": "12/11/1992",
+        "Classe": "6emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 5.0,
+                "moyenne": 4.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.5
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 7.0,
+                "moyenne": 5.83
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    16.0,
+                    15.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            }
+        ]
+    },
+    {
+        "CODE": "AFD006",
+        "Numero": "2020DFH",
+        "Nom": "NDIAYE",
+        "Prenom": "Fatah",
+        "Date de naissance": "23/08/2000",
+        "Classe": "4emB",
+        "notes": [
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    12.0,
+                    14.5,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.83
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    14.0,
+                    12.0
+                ],
+                "examen": 13.0,
+                "moyenne": 13.0
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    12.8
+                ],
+                "examen": 15.0,
+                "moyenne": 14.27
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    10.0,
+                    9.0,
+                    16.0,
+                    13.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 16.0,
+                "moyenne": 14.0
+            }
+        ]
+    },
+    {
+        "CODE": "AFD006",
+        "Numero": "2019R3M",
+        "Nom": "MOHAMED",
+        "Prenom": "Ben Omar",
+        "Date de naissance": "30/03/1999",
+        "Classe": "3emC",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    12.0,
+                    16.0,
+                    18.0
+                ],
+                "examen": 19.0,
+                "moyenne": 17.78
+            },
+            {
+                "matieres": "Françcais",
+                "notes_dev": [
+                    15.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.33
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    10.0,
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.5
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    15.0,
+                    17.0,
+                    13.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.33
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    16.0,
+                    16.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.67
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    15.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.33
+            }
+        ]
+    },
+    {
+        "CODE": "AFD006",
+        "Numero": "2018JKH",
+        "Nom": "NDIAYE",
+        "Prenom": "Zeyna",
+        "Date de naissance": "23/06/1998",
+        "Classe": "4emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    13.0,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.67
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    13.0,
+                    19.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.67
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    12.0,
+                    14.0
+                ],
+                "examen": 14.0,
+                "moyenne": 13.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    15.0,
+                    19.0
+                ],
+                "examen": 15.0,
+                "moyenne": 15.67
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0,
+                    18.0
+                ],
+                "examen": 13.0,
+                "moyenne": 13.33
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    11.0,
+                    12.0,
+                    11.0
+                ],
+                "examen": 20.0,
+                "moyenne": 17.11
+            }
+        ]
+    },
+    {
+        "CODE": "AKH014",
+        "Numero": "2020UT6",
+        "Nom": "SIHARAJ",
+        "Prenom": "SORPHAKA",
+        "Date de naissance": "11/09/2002",
+        "Classe": "6emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    14.0,
+                    12.0
+                ],
+                "examen": 15.0,
+                "moyenne": 14.33
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    18.0,
+                    6.0
+                ],
+                "examen": 14.0,
+                "moyenne": 13.33
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    15.0,
+                    12.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.5
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    18.0,
+                    13.0
+                ],
+                "examen": 7.0,
+                "moyenne": 9.83
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    11.0,
+                    19.0
+                ],
+                "examen": 12.0,
+                "moyenne": 13.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    13.0,
+                    15.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.67
+            }
+        ]
+    },
+    {
+        "CODE": "AKH014",
+        "Numero": "2021IJ3",
+        "Nom": "LEFRANC",
+        "Prenom": "LYDIE",
+        "Date de naissance": "04/06/2001",
+        "Classe": "4emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 5.0,
+                "moyenne": 4.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.5
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 7.0,
+                "moyenne": 5.83
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    16.0,
+                    15.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            }
+        ]
+    },
+    {
+        "CODE": "AKH014",
+        "Numero": "PO0023R",
+        "Nom": "DUPASQUIER",
+        "Prenom": "ERIC",
+        "Date de naissance": "02/09/1990",
+        "Classe": "3emC",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    20.0,
+                    18.0
+                ],
+                "examen": 18.0,
+                "moyenne": 18.33
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    12.0,
+                    14.0,
+                    14.0
+                ],
+                "examen": 13.0,
+                "moyenne": 13.11
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    15.16,
+                    16.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.53
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    17.0
+                ],
+                "examen": 18.0,
+                "moyenne": 17.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    14.0,
+                    15.0,
+                    15.0,
+                    16.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.33
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    13.0
+                ],
+                "examen": 16.0,
+                "moyenne": 15.0
+            }
+        ]
+    },
+    {
+        "CODE": "AKH014",
+        "Numero": "1992I0E",
+        "Nom": "MAHMOUD",
+        "Prenom": "ABDERRAHMAN",
+        "Date de naissance": "12/12/1999",
+        "Classe": "4emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    11.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    7.0,
+                    12.0,
+                    8.0
+                ],
+                "examen": 13.0,
+                "moyenne": 11.67
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.5,
+                    9.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.75
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.0
+            }
+        ]
+    },
+    {
+        "CODE": "AKH014",
+        "Numero": "20L6TRA",
+        "Nom": "MIMOUNI",
+        "Prenom": "MIMOUNI",
+        "Date de naissance": "12/07/1997",
+        "Classe": "6emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 5.0,
+                "moyenne": 4.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.5
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 7.0,
+                "moyenne": 5.83
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    16.0,
+                    15.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            }
+        ]
+    },
+    {
+        "CODE": "AKH014",
+        "Numero": "54FR342",
+        "Nom": "Kamou",
+        "Prenom": "LAYE",
+        "Date de naissance": "04/03/2020",
+        "Classe": "5emC",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 5.0,
+                "moyenne": 4.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.5
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 7.0,
+                "moyenne": 5.83
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    16.0,
+                    15.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            }
+        ]
+    },
+    {
+        "CODE": "AMD013",
+        "Numero": "Z7812Z5",
+        "Nom": "DIOUM",
+        "Prenom": "ALIOUNE",
+        "Date de naissance": "12/12/2011",
+        "Classe": "3emB",
+        "notes": [
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    12.0,
+                    14.5,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.83
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    4.0,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 11.17
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.8
+                ],
+                "examen": 15.0,
+                "moyenne": 14.6
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.33
+            }
+        ]
+    },
+    {
+        "CODE": "AMD013",
+        "Numero": "Z7812Z9",
+        "Nom": "NDIAYE",
+        "Prenom": "MOUSSA",
+        "Date de naissance": "12/03/1999",
+        "Classe": "3emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    11.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    7.0,
+                    9.0,
+                    8.0
+                ],
+                "examen": 13.0,
+                "moyenne": 11.33
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    10.5,
+                    9.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.25
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 11.0,
+                "moyenne": 10.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    11.0,
+                    16.0,
+                    8.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.92
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.0
+            }
+        ]
+    },
+    {
+        "CODE": "AMD013",
+        "Numero": "Z7852Z3",
+        "Nom": "FALL",
+        "Prenom": "MOUSTAPHA",
+        "Date de naissance": "09/09/2012",
+        "Classe": "6emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    11.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    7.0,
+                    9.0,
+                    8.0
+                ],
+                "examen": 13.0,
+                "moyenne": 11.33
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    10.5,
+                    9.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.25
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 11.0,
+                "moyenne": 10.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    11.0,
+                    16.0,
+                    8.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.92
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.0
+            }
+        ]
+    },
+    {
+        "CODE": "AMD013",
+        "Numero": "Z7812Z7",
+        "Nom": "MBAYE",
+        "Prenom": "IDRISSA",
+        "Date de naissance": "15/05/2011",
+        "Classe": "4emA",
+        "notes": [
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    15.0,
+                    11.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.11
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    6.0,
+                    14.0
+                ],
+                "examen": 16.0,
+                "moyenne": 14.0
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    12.19,
+                    11.0
+                ],
+                "examen": 16.0,
+                "moyenne": 14.35
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    18.0,
+                    11.0
+                ],
+                "examen": 15.0,
+                "moyenne": 14.83
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    8.15
+                ],
+                "examen": 15.0,
+                "moyenne": 12.72
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    7.0,
+                    11.0,
+                    9.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.0
+            }
+        ]
+    },
+    {
+        "CODE": "AMD013",
+        "Numero": "Z7312Z3",
+        "Nom": "TINE",
+        "Prenom": "SEYDOU",
+        "Date de naissance": "03/09/2000",
+        "Classe": "5emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    11.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    7.0,
+                    12.0,
+                    8.0
+                ],
+                "examen": 13.0,
+                "moyenne": 11.67
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.5,
+                    9.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.75
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.0
+            }
+        ]
+    },
+    {
+        "CODE": "AMD013",
+        "Numero": "Z8812Z3",
+        "Nom": "TOURE",
+        "Prenom": "OUMAR",
+        "Date de naissance": "29/11/2001",
+        "Classe": "5emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    9.0,
+                    10.5,
+                    10.0,
+                    13.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.54
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    12.0
+                ],
+                "examen": 19.0,
+                "moyenne": 16.67
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    10.0,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.17
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    15.0,
+                    9.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.25
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    13.0
+                ],
+                "examen": 13.0,
+                "moyenne": 13.0
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    11.12
+                ],
+                "examen": 15.0,
+                "moyenne": 13.71
+            }
+        ]
+    },
+    {
+        "CODE": "AMG015",
+        "Numero": "SONA001",
+        "Nom": "FAYE",
+        "Prenom": "FATOU",
+        "Date de naissance": "12/04/1993",
+        "Classe": "6emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 5.0,
+                "moyenne": 4.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.5
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 7.0,
+                "moyenne": 5.83
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    16.0,
+                    15.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            }
+        ]
+    },
+    {
+        "CODE": "AMG015",
+        "Numero": "SONA002",
+        "Nom": "GAYE",
+        "Prenom": "THIERNO",
+        "Date de naissance": "14/02/1992",
+        "Classe": "6emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 5.0,
+                "moyenne": 4.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.5
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 7.0,
+                "moyenne": 5.83
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    16.0,
+                    15.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            }
+        ]
+    },
+    {
+        "CODE": "AMG015",
+        "Numero": "SONA003",
+        "Nom": "DIOP",
+        "Prenom": "YOUSSOU",
+        "Date de naissance": "12/06/1994",
+        "Classe": "5emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 5.0,
+                "moyenne": 4.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.5
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 7.0,
+                "moyenne": 5.83
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    16.0,
+                    15.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            }
+        ]
+    },
+    {
+        "CODE": "AMG015",
+        "Numero": "SONA004",
+        "Nom": "WAGNE",
+        "Prenom": "PETIT",
+        "Date de naissance": "12/07/1995",
+        "Classe": "5emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 5.0,
+                "moyenne": 4.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.5
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 7.0,
+                "moyenne": 5.83
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    16.0,
+                    15.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            }
+        ]
+    },
+    {
+        "CODE": "AMG015",
+        "Numero": "SONA005",
+        "Nom": "CISSE",
+        "Prenom": "GALAYE",
+        "Date de naissance": "04/03/1995",
+        "Classe": "4emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 5.0,
+                "moyenne": 4.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.5
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 7.0,
+                "moyenne": 5.83
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    16.0,
+                    15.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            }
+        ]
+    },
+    {
+        "CODE": "AMG015",
+        "Numero": "SONA006",
+        "Nom": "GOMIS",
+        "Prenom": "PATA",
+        "Date de naissance": "01/06/1997",
+        "Classe": "4emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 5.0,
+                "moyenne": 4.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.5
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 7.0,
+                "moyenne": 5.83
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    16.0,
+                    15.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            }
+        ]
+    },
+    {
+        "CODE": "AMG015",
+        "Numero": "SONA007",
+        "Nom": "SANE",
+        "Prenom": "BALLA",
+        "Date de naissance": "09/09/1999",
+        "Classe": "3emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 5.0,
+                "moyenne": 4.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.5
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 7.0,
+                "moyenne": 5.83
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    16.0,
+                    15.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            }
+        ]
+    },
+    {
+        "CODE": "AMG015",
+        "Numero": "SONA008",
+        "Nom": "SAGNA",
+        "Prenom": "SADIO",
+        "Date de naissance": "06/06/1999",
+        "Classe": "3emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 5.0,
+                "moyenne": 4.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.5
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 7.0,
+                "moyenne": 5.83
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    16.0,
+                    15.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            }
+        ]
+    },
+    {
+        "CODE": "AMG015",
+        "Numero": "SONA009",
+        "Nom": "NIANG",
+        "Prenom": "MAREME",
+        "Date de naissance": "12/12/1996",
+        "Classe": "6emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 5.0,
+                "moyenne": 4.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.5
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    15.0,
+                    16.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    4.0,
+                    3.0
+                ],
+                "examen": 7.0,
+                "moyenne": 5.83
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    16.0,
+                    15.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.5
+            }
+        ]
+    },
+    {
+        "CODE": "ASK017",
+        "Numero": "OKYLDC8",
+        "Nom": "KANE",
+        "Prenom": "Ousmane",
+        "Date de naissance": "07/12/2007",
+        "Classe": "4emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    12.0,
+                    10.0
+                ],
+                "examen": 11.0,
+                "moyenne": 11.0
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    9.0,
+                    10.0
+                ],
+                "examen": 8.0,
+                "moyenne": 8.5
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    6.0,
+                    10.0
+                ],
+                "examen": 10.0,
+                "moyenne": 9.33
+            },
+            {
+                "matieres": "Français",
+                "notes_dev": [
+                    15.0,
+                    14.0
+                ],
+                "examen": 15.0,
+                "moyenne": 14.83
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    17.0,
+                    16.0
+                ],
+                "examen": 19.0,
+                "moyenne": 18.17
+            }
+        ]
+    },
+    {
+        "CODE": "ASK017",
+        "Numero": "DKBLMT7",
+        "Nom": "KONATE",
+        "Prenom": "Djiby",
+        "Date de naissance": "09/06/2010",
+        "Classe": "6emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    17.0
+                ],
+                "examen": 15.0,
+                "moyenne": 15.67
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    15.0,
+                    10.0
+                ],
+                "examen": 14.0,
+                "moyenne": 13.5
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    14.0,
+                    15.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.83
+            },
+            {
+                "matieres": "Français",
+                "notes_dev": [
+                    14.0
+                ],
+                "examen": 15.0,
+                "moyenne": 14.67
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    19.0
+                ],
+                "examen": 17.0,
+                "moyenne": 17.67
+            }
+        ]
+    },
+    {
+        "CODE": "ASK017",
+        "Numero": "CMGBDK9",
+        "Nom": "MENDY",
+        "Prenom": "Christelle",
+        "Date de naissance": "11/10/2006",
+        "Classe": "3emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    14.0,
+                    18.0
+                ],
+                "examen": 16.0,
+                "moyenne": 16.0
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    17.0
+                ],
+                "examen": 16.0,
+                "moyenne": 16.33
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    15.0
+                ],
+                "examen": 19.0,
+                "moyenne": 17.67
+            },
+            {
+                "matieres": "Français",
+                "notes_dev": [
+                    11.0,
+                    9.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    8.0,
+                    5.0
+                ],
+                "examen": 12.0,
+                "moyenne": 10.17
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.0
+                ],
+                "examen": 15.0,
+                "moyenne": 14.33
+            }
+        ]
+    },
+    {
+        "CODE": "ASK017",
+        "Numero": "YOSADK1",
+        "Nom": "OUEDRAOGO",
+        "Prenom": "Yankoba",
+        "Date de naissance": "15/02/2009",
+        "Classe": "5emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.33
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    11.0
+                ],
+                "examen": 14.0,
+                "moyenne": 13.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    13.0,
+                    10.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.83
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    12.0
+                ],
+                "examen": 17.0,
+                "moyenne": 15.33
+            },
+            {
+                "matieres": "Français",
+                "notes_dev": [
+                    18.0,
+                    14.0
+                ],
+                "examen": 16.0,
+                "moyenne": 16.0
+            }
+        ]
+    },
+    {
+        "CODE": "ASK017",
+        "Numero": "SFSADK2",
+        "Nom": "FALL",
+        "Prenom": "Salimata",
+        "Date de naissance": "02/08/2010",
+        "Classe": "6emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    13.0
+                ],
+                "examen": 9.0,
+                "moyenne": 10.33
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    16.0
+                ],
+                "examen": 10.0,
+                "moyenne": 11.33
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    17.0,
+                    14.0
+                ],
+                "examen": 15.0,
+                "moyenne": 15.17
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    18.0
+                ],
+                "examen": 17.0,
+                "moyenne": 17.33
+            },
+            {
+                "matieres": "Français",
+                "notes_dev": [
+                    18.0,
+                    15.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.83
+            }
+        ]
+    },
+    {
+        "CODE": "ASK017",
+        "Numero": "MDMTDK9",
+        "Nom": "DIOP",
+        "Prenom": "Mamy",
+        "Date de naissance": "25/09/2005",
+        "Classe": "3emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    9.0,
+                    11.0,
+                    13.0
+                ],
+                "examen": 11.0,
+                "moyenne": 11.0
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    13.0
+                ],
+                "examen": 10.0,
+                "moyenne": 11.0
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    10.0,
+                    15.0,
+                    14.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.33
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    12.0
+                ],
+                "examen": 16.0,
+                "moyenne": 14.67
+            },
+            {
+                "matieres": "Français",
+                "notes_dev": [
+                    11.0,
+                    13.0
+                ],
+                "examen": 11.0,
+                "moyenne": 11.33
+            }
+        ]
+    },
+    {
+        "CODE": "ASK017",
+        "Numero": "MTBFCA2",
+        "Nom": "TAPSOBA",
+        "Prenom": "Mounkoudy",
+        "Date de naissance": "08/12/2008",
+        "Classe": "4emB",
+        "notes": [
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    12.0,
+                    8.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.0
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    15.0,
+                    18.0
+                ],
+                "examen": 20.0,
+                "moyenne": 18.83
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    10.0,
+                    17.0
+                ],
+                "examen": 16.0,
+                "moyenne": 15.17
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    19.0,
+                    15.0
+                ],
+                "examen": 17.0,
+                "moyenne": 17.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    11.0,
+                    14.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.83
+            },
+            {
+                "matieres": "Français",
+                "notes_dev": [
+                    6.0,
+                    9.0
+                ],
+                "examen": 11.0,
+                "moyenne": 9.83
+            }
+        ]
+    },
+    {
+        "CODE": "ASK017",
+        "Numero": "DDPADK7",
+        "Nom": "DIA",
+        "Prenom": "Dieynaba",
+        "Date de naissance": "01/05/2008",
+        "Classe": "4emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    10.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.33
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    12.0,
+                    10.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    5.0,
+                    10.0
+                ],
+                "examen": 13.0,
+                "moyenne": 11.17
+            },
+            {
+                "matieres": "Français",
+                "notes_dev": [
+                    12.0,
+                    16.0
+                ],
+                "examen": 14.0,
+                "moyenne": 14.0
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    14.0,
+                    16.0
+                ],
+                "examen": 19.0,
+                "moyenne": 17.67
+            }
+        ]
+    },
+    {
+        "CODE": "ASK017",
+        "Numero": "ADBMML5",
+        "Nom": "DIOGOSOUMA",
+        "Prenom": "Aliou",
+        "Date de naissance": "03/10/2009",
+        "Classe": "5emB",
+        "notes": [
+            {
+                "matieres": "Français",
+                "notes_dev": [
+                    15.0
+                ],
+                "examen": 12.0,
+                "moyenne": 13.0
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    16.0,
+                    10.0
+                ],
+                "examen": 16.0,
+                "moyenne": 15.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    12.0
+                ],
+                "examen": 18.0,
+                "moyenne": 16.0
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    17.0
+                ],
+                "examen": 15.0,
+                "moyenne": 15.67
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    15.0,
+                    13.0
+                ],
+                "examen": 18.0,
+                "moyenne": 16.67
+            }
+        ]
+    },
+    {
+        "CODE": "ASK017",
+        "Numero": "ABHLMY1",
+        "Nom": "BAOBEY",
+        "Prenom": "Angelline",
+        "Date de naissance": "18/03/2006",
+        "Classe": "3emA",
+        "notes": [
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    16.0,
+                    10.0
+                ],
+                "examen": 17.0,
+                "moyenne": 15.67
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    18.0,
+                    15.0
+                ],
+                "examen": 19.0,
+                "moyenne": 18.17
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    17.0,
+                    12.0
+                ],
+                "examen": 17.0,
+                "moyenne": 16.17
+            },
+            {
+                "matieres": "Français",
+                "notes_dev": [
+                    15.0,
+                    13.0
+                ],
+                "examen": 16.0,
+                "moyenne": 15.33
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    12.0,
+                    10.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.67
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    14.0,
+                    18.0
+                ],
+                "examen": 15.0,
+                "moyenne": 15.33
+            }
+        ]
+    },
+    {
+        "CODE": "BAD008",
+        "Numero": "AF32IBC",
+        "Nom": "FALL",
+        "Prenom": "OUSSEYOU",
+        "Date de naissance": "03/07/2000",
+        "Classe": "3emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    13.0,
+                    15.0
+                ],
+                "examen": 16.0,
+                "moyenne": 15.33
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    10.0,
+                    14.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.67
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    12.0,
+                    9.0,
+                    15.0
+                ],
+                "examen": 11.0,
+                "moyenne": 11.33
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    13.0
+                ],
+                "examen": 10.0,
+                "moyenne": 11.0
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    14.0,
+                    9.0,
+                    12.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.56
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    13.0
+                ],
+                "examen": 15.0,
+                "moyenne": 14.33
+            }
+        ]
+    },
+    {
+        "CODE": "BAD008",
+        "Numero": "M60GRTL",
+        "Nom": "TINE",
+        "Prenom": "SOKHNA",
+        "Date de naissance": "25/02/2005",
+        "Classe": "4emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    8.0,
+                    13.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.17
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    10.0,
+                    10.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    10.0,
+                    11.0,
+                    9.0
+                ],
+                "examen": 7.0,
+                "moyenne": 8.0
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 8.0,
+                "moyenne": 8.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    11.0,
+                    9.0,
+                    10.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    12.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.67
+            }
+        ]
+    },
+    {
+        "CODE": "BAD008",
+        "Numero": "QNXKW09",
+        "Nom": "SINE",
+        "Prenom": "MARIEME",
+        "Date de naissance": "29/08/2008",
+        "Classe": "5emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    8.0,
+                    12.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.33
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    15.0,
+                    10.0
+                ],
+                "examen": 9.0,
+                "moyenne": 10.17
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    12.0,
+                    9.0,
+                    12.0
+                ],
+                "examen": 7.0,
+                "moyenne": 8.33
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    8.0,
+                    11.0,
+                    10.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.22
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 11.0,
+                "moyenne": 10.67
+            }
+        ]
+    },
+    {
+        "CODE": "BAD008",
+        "Numero": "G2NXW1L",
+        "Nom": "DIOUF",
+        "Prenom": "MOUSTAPHA",
+        "Date de naissance": "05/07/2001",
+        "Classe": "4emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    14.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    10.0,
+                    12.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.67
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    9.0,
+                    10.0
+                ],
+                "examen": 11.0,
+                "moyenne": 10.5
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    13.0,
+                    12.0
+                ],
+                "examen": 15.0,
+                "moyenne": 14.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    15.0
+                ],
+                "examen": 10.0,
+                "moyenne": 11.67
+            }
+        ]
+    },
+    {
+        "CODE": "BAD008",
+        "Numero": "UPNCG78",
+        "Nom": "KA",
+        "Prenom": "ALIOU",
+        "Date de naissance": "10/05/2009",
+        "Classe": "3emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    9.0,
+                    10.5,
+                    10.0,
+                    13.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.54
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    12.0
+                ],
+                "examen": 19.0,
+                "moyenne": 16.67
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    10.0,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.17
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    15.0,
+                    9.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.25
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    13.0
+                ],
+                "examen": 13.0,
+                "moyenne": 13.0
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    11.12
+                ],
+                "examen": 15.0,
+                "moyenne": 13.71
+            }
+        ]
+    },
+    {
+        "CODE": "BAD008",
+        "Numero": "WYI96BT",
+        "Nom": "BA",
+        "Prenom": "MOUSSA",
+        "Date de naissance": "05/11/2010",
+        "Classe": "6emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    12.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.67
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    17.0,
+                    9.0,
+                    8.0
+                ],
+                "examen": 14.0,
+                "moyenne": 13.11
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    10.0,
+                    7.0,
+                    9.0
+                ],
+                "examen": 15.0,
+                "moyenne": 12.89
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 11.0,
+                "moyenne": 10.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    11.0,
+                    16.0,
+                    8.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.92
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.0
+            }
+        ]
+    },
+    {
+        "CODE": "BAD008",
+        "Numero": "WYI96BT",
+        "Nom": "DIALLO",
+        "Prenom": "SEYNABOU",
+        "Date de naissance": "16/02/2003",
+        "Classe": "5emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    8.0,
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.17
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    12.0,
+                    14.0
+                ],
+                "examen": 13.0,
+                "moyenne": 13.0
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    12.0,
+                    9.0
+                ],
+                "examen": 11.0,
+                "moyenne": 10.83
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    16.0
+                ],
+                "examen": 12.0,
+                "moyenne": 13.33
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    14.0,
+                    9.0,
+                    11.0
+                ],
+                "examen": 14.0,
+                "moyenne": 13.11
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    12.0
+                ],
+                "examen": 14.0,
+                "moyenne": 13.33
+            }
+        ]
+    },
+    {
+        "CODE": "BAD008",
+        "Numero": "FRTX54U",
+        "Nom": "NDIAYE",
+        "Prenom": "FATOU",
+        "Date de naissance": "22/07/2005",
+        "Classe": "4emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    12.0,
+                    7.0
+                ],
+                "examen": 10.0,
+                "moyenne": 9.83
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    13.0,
+                    14.0
+                ],
+                "examen": 9.0,
+                "moyenne": 10.5
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    9.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.33
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    15.0
+                ],
+                "examen": 12.0,
+                "moyenne": 13.0
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    11.0,
+                    10.0,
+                    12.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.33
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 14.0,
+                "moyenne": 12.67
+            }
+        ]
+    },
+    {
+        "CODE": "BAD008",
+        "Numero": "LJQC67L",
+        "Nom": "WADE",
+        "Prenom": "ASTOU",
+        "Date de naissance": "12/12/2007",
+        "Classe": "3emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    13.0,
+                    15.0
+                ],
+                "examen": 16.0,
+                "moyenne": 15.33
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    10.0,
+                    14.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.67
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    12.0,
+                    9.0,
+                    19.0
+                ],
+                "examen": 11.0,
+                "moyenne": 11.78
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    13.0
+                ],
+                "examen": 10.0,
+                "moyenne": 11.0
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    14.0,
+                    9.0,
+                    12.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.56
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.67
+            }
+        ]
+    },
+    {
+        "CODE": "BAD008",
+        "Numero": "KFPB32H",
+        "Nom": "SY",
+        "Prenom": "ADJA",
+        "Date de naissance": "02/08/2002",
+        "Classe": "6emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    11.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    7.0,
+                    9.0,
+                    8.0
+                ],
+                "examen": 13.0,
+                "moyenne": 11.33
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    10.5,
+                    9.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.25
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 11.0,
+                "moyenne": 10.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    11.0,
+                    16.0,
+                    8.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.92
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.0
+            }
+        ]
+    },
+    {
+        "CODE": "BAF013",
+        "Numero": "GH43RTU",
+        "Nom": "Ndao",
+        "Prenom": "Aram",
+        "Date de naissance": "16/02/2000",
+        "Classe": "3emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    11.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    7.0,
+                    12.0,
+                    8.0
+                ],
+                "examen": 13.0,
+                "moyenne": 11.67
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.5,
+                    9.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.75
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.0
+            }
+        ]
+    },
+    {
+        "CODE": "BAF013",
+        "Numero": "PLM56DS",
+        "Nom": "Gomis",
+        "Prenom": "Pipo",
+        "Date de naissance": "16/03/1998",
+        "Classe": "4emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    8.0,
+                    7.0
+                ],
+                "examen": 10.0,
+                "moyenne": 9.17
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    15.0,
+                    12.0,
+                    9.0
+                ],
+                "examen": 14.0,
+                "moyenne": 13.33
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.15,
+                    19.0
+                ],
+                "examen": 15.0,
+                "moyenne": 15.36
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    2.0,
+                    9.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 18.0,
+                "moyenne": 15.33
+            }
+        ]
+    },
+    {
+        "CODE": "BAF013",
+        "Numero": "GF34KHS",
+        "Nom": "Diouf",
+        "Prenom": "Ousseynou",
+        "Date de naissance": "03/12/1992",
+        "Classe": "5emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    18.0,
+                    17.0
+                ],
+                "examen": 10.0,
+                "moyenne": 12.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    5.0,
+                    13.0,
+                    9.0
+                ],
+                "examen": 14.0,
+                "moyenne": 12.33
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    12.5,
+                    10.0
+                ],
+                "examen": 14.0,
+                "moyenne": 13.08
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    17.0
+                ],
+                "examen": 9.0,
+                "moyenne": 11.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    19.0,
+                    15.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.75
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    16.0
+                ],
+                "examen": 18.0,
+                "moyenne": 17.33
+            }
+        ]
+    },
+    {
+        "CODE": "BAF013",
+        "Numero": "JHGF7F5",
+        "Nom": "Diop",
+        "Prenom": "Elimane",
+        "Date de naissance": "12/01/2003",
+        "Classe": "6emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    9.0,
+                    17.0
+                ],
+                "examen": 10.0,
+                "moyenne": 11.0
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    12.0,
+                    13.0,
+                    8.0
+                ],
+                "examen": 18.0,
+                "moyenne": 15.67
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    3.5,
+                    10.0
+                ],
+                "examen": 15.0,
+                "moyenne": 12.25
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    17.0
+                ],
+                "examen": 19.0,
+                "moyenne": 18.33
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    19.0,
+                    16.0,
+                    13.0
+                ],
+                "examen": 12.0,
+                "moyenne": 13.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    14.0
+                ],
+                "examen": 18.0,
+                "moyenne": 16.67
+            }
+        ]
+    },
+    {
+        "CODE": "BAF013",
+        "Numero": "RED76BH",
+        "Nom": "Cissé",
+        "Prenom": "Babacar",
+        "Date de naissance": "03/06/2005",
+        "Classe": "3emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    8.0,
+                    7.0
+                ],
+                "examen": 10.0,
+                "moyenne": 9.17
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    15.0,
+                    12.0,
+                    9.0
+                ],
+                "examen": 14.0,
+                "moyenne": 13.33
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.15,
+                    19.0
+                ],
+                "examen": 15.0,
+                "moyenne": 15.36
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    2.0,
+                    9.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 18.0,
+                "moyenne": 15.33
+            }
+        ]
+    },
+    {
+        "CODE": "BAF013",
+        "Numero": "GF69LBC",
+        "Nom": "Ba",
+        "Prenom": "Abdoulaye",
+        "Date de naissance": "09/02/1992",
+        "Classe": "3emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    18.0,
+                    17.0
+                ],
+                "examen": 15.0,
+                "moyenne": 15.83
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    10.0,
+                    1.0,
+                    9.0
+                ],
+                "examen": 12.0,
+                "moyenne": 10.22
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    10.11,
+                    18.0
+                ],
+                "examen": 15.0,
+                "moyenne": 14.69
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0,
+                    13.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.75
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    12.0
+                ],
+                "examen": 19.0,
+                "moyenne": 16.67
+            }
+        ]
+    },
+    {
+        "CODE": "BAF013",
+        "Numero": "ML09RDS",
+        "Nom": "Diallo",
+        "Prenom": "Alioune",
+        "Date de naissance": "08/07/1993",
+        "Classe": "4emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    9.0,
+                    7.0
+                ],
+                "examen": 11.0,
+                "moyenne": 10.0
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    11.0,
+                    13.0,
+                    19.0
+                ],
+                "examen": 4.0,
+                "moyenne": 7.44
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    12.11,
+                    10.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.69
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.33
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    13.0,
+                    7.0,
+                    15.0,
+                    16.0
+                ],
+                "examen": 2.0,
+                "moyenne": 5.58
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 16.0,
+                "moyenne": 14.33
+            }
+        ]
+    },
+    {
+        "CODE": "BAF013",
+        "Numero": "NBV76RD",
+        "Nom": "Gueye",
+        "Prenom": "Abdalah",
+        "Date de naissance": "01/01/1992",
+        "Classe": "4emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    12.0,
+                    17.0
+                ],
+                "examen": 0.0,
+                "moyenne": 4.83
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    12.0,
+                    17.0,
+                    12.0
+                ],
+                "examen": 15.0,
+                "moyenne": 14.56
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.15,
+                    19.0
+                ],
+                "examen": 15.0,
+                "moyenne": 15.36
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 19.0,
+                "moyenne": 16.33
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    8.0,
+                    12.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.58
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 18.0,
+                "moyenne": 15.33
+            }
+        ]
+    },
+    {
+        "CODE": "BAF013",
+        "Numero": "NB675DH",
+        "Nom": "Dia",
+        "Prenom": "Hawa",
+        "Date de naissance": "07/07/1997",
+        "Classe": "5emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    15.0,
+                    12.0
+                ],
+                "examen": 10.0,
+                "moyenne": 11.17
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    13.0,
+                    16.0,
+                    19.0
+                ],
+                "examen": 19.0,
+                "moyenne": 18.0
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    12.13,
+                    18.0
+                ],
+                "examen": 15.0,
+                "moyenne": 15.02
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    12.0
+                ],
+                "examen": 19.0,
+                "moyenne": 16.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    2.0,
+                    9.0,
+                    17.0,
+                    11.0
+                ],
+                "examen": 2.0,
+                "moyenne": 4.58
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    1.0
+                ],
+                "examen": 15.0,
+                "moyenne": 10.33
+            }
+        ]
+    },
+    {
+        "CODE": "BAF013",
+        "Numero": "MLHF65D",
+        "Nom": "Guissé",
+        "Prenom": "Penda",
+        "Date de naissance": "04/04/1994",
+        "Classe": "3emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    8.0,
+                    7.0
+                ],
+                "examen": 10.0,
+                "moyenne": 9.17
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    15.0,
+                    12.0,
+                    9.0
+                ],
+                "examen": 14.0,
+                "moyenne": 13.33
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.15,
+                    19.0
+                ],
+                "examen": 15.0,
+                "moyenne": 15.36
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    2.0,
+                    9.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 18.0,
+                "moyenne": 15.33
+            }
+        ]
+    },
+    {
+        "CODE": "BMP019",
+        "Numero": "3FR5IJ9",
+        "Nom": "DIALLO",
+        "Prenom": "Hermione",
+        "Date de naissance": "12/08/2006",
+        "Classe": "4emB",
+        "notes": [
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    15.0,
+                    11.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.11
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    6.0,
+                    14.0
+                ],
+                "examen": 16.0,
+                "moyenne": 14.0
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    12.19,
+                    11.0
+                ],
+                "examen": 16.0,
+                "moyenne": 14.35
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    18.0,
+                    11.0
+                ],
+                "examen": 15.0,
+                "moyenne": 14.83
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    8.15
+                ],
+                "examen": 15.0,
+                "moyenne": 12.72
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    7.0,
+                    11.0,
+                    9.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.0
+            }
+        ]
+    },
+    {
+        "CODE": "BMP019",
+        "Numero": "PM12NG7",
+        "Nom": "DIOP",
+        "Prenom": "Marième",
+        "Date de naissance": "19/08/1997",
+        "Classe": "3emA",
+        "notes": [
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    15.0,
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 10.33
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    12.0,
+                    14.5,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.83
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    4.0,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 11.17
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.8
+                ],
+                "examen": 15.0,
+                "moyenne": 14.6
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.33
+            }
+        ]
+    },
+    {
+        "CODE": "BMP019",
+        "Numero": "89HY6F5",
+        "Nom": "DIALLO",
+        "Prenom": "Ronald",
+        "Date de naissance": "09/05/2000",
+        "Classe": "6emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    14.5
+                ],
+                "examen": 16.0,
+                "moyenne": 14.75
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    4.0,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 11.17
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.5
+                ],
+                "examen": 15.0,
+                "moyenne": 14.5
+            }
+        ]
+    },
+    {
+        "CODE": "BMP019",
+        "Numero": "5D7BKJ2",
+        "Nom": "FALL",
+        "Prenom": "Magui",
+        "Date de naissance": "30/08/2008",
+        "Classe": "3emB",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    11.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.5
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    7.0,
+                    12.0,
+                    8.0
+                ],
+                "examen": 13.0,
+                "moyenne": 11.67
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.5,
+                    9.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.75
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.0
+            }
+        ]
+    },
+    {
+        "CODE": "BMP019",
+        "Numero": "PK0I89K",
+        "Nom": "CAMARA",
+        "Prenom": "Rachid",
+        "Date de naissance": "15/02/2001",
+        "Classe": "6emA",
+        "notes": [
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    12.0,
+                    14.5,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.83
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    14.0,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.83
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.8
+                ],
+                "examen": 5.0,
+                "moyenne": 7.93
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    9.0,
+                    16.0,
+                    11.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.33
+            }
+        ]
+    },
+    {
+        "CODE": "BMP019",
+        "Numero": "9F6J9TT",
+        "Nom": "POUYE",
+        "Prenom": "Ousseynou",
+        "Date de naissance": "02/12/1985",
+        "Classe": "4emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    14.5,
+                    11.0,
+                    15.0
+                ],
+                "examen": 17.0,
+                "moyenne": 15.54
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0,
+                    16.0
+                ],
+                "examen": 16.0,
+                "moyenne": 15.17
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    16.0,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 13.17
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    3.0,
+                    17.0,
+                    18.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.17
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    14.0,
+                    12.0
+                ],
+                "examen": 11.0,
+                "moyenne": 11.67
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    13.5
+                ],
+                "examen": 15.0,
+                "moyenne": 14.5
+            }
+        ]
+    },
+    {
+        "CODE": "BMP019",
+        "Numero": "6G6F9F1",
+        "Nom": "DEME",
+        "Prenom": "Mahi",
+        "Date de naissance": "27/10/1993",
+        "Classe": "3emB",
+        "notes": [
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    11.0,
+                    11.0
+                ],
+                "examen": 9.0,
+                "moyenne": 9.67
+            },
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    14.15,
+                    11.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.86
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    14.0,
+                    12.0
+                ],
+                "examen": 13.0,
+                "moyenne": 13.0
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    12.8
+                ],
+                "examen": 15.0,
+                "moyenne": 14.27
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    10.0,
+                    9.0,
+                    16.0,
+                    13.0
+                ],
+                "examen": 12.0,
+                "moyenne": 12.0
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 16.0,
+                "moyenne": 14.0
+            }
+        ]
+    },
+    {
+        "CODE": "BMP019",
+        "Numero": "BH54JJ6",
+        "Nom": "DUBOIS",
+        "Prenom": "Bachir",
+        "Date de naissance": "15/09/1994",
+        "Classe": "5emA",
+        "notes": [
+            {
+                "matieres": "Math",
+                "notes_dev": [
+                    10.0,
+                    15.0
+                ],
+                "examen": 15.0,
+                "moyenne": 14.17
+            },
+            {
+                "matieres": "Francais",
+                "notes_dev": [
+                    17.0,
+                    9.0,
+                    8.0
+                ],
+                "examen": 13.0,
+                "moyenne": 12.44
+            },
+            {
+                "matieres": "Anglais",
+                "notes_dev": [
+                    10.5,
+                    9.0
+                ],
+                "examen": 15.0,
+                "moyenne": 13.25
+            },
+            {
+                "matieres": "PC",
+                "notes_dev": [
+                    10.0,
+                    13.0
+                ],
+                "examen": 11.0,
+                "moyenne": 11.17
+            },
+            {
+                "matieres": "SVT",
+                "notes_dev": [
+                    12.0,
+                    11.0,
+                    16.0,
+                    8.0
+                ],
+                "examen": 12.0,
+                "moyenne": 11.92
+            },
+            {
+                "matieres": "HG",
+                "notes_dev": [
+                    10.0
+                ],
+                "examen": 10.0,
+                "moyenne": 10.0
+            }
+        ]
+    }
+]
